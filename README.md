@@ -1,7 +1,6 @@
-# BINF-Projects
+# Bioinformatics Project
 
 # Rishabh Narula
 
-## Masters in Bioinformatics Student at Northeastern University
-
+## Data Scientist/Computational Biologist
 Bioinformatics Projects
